@@ -1,0 +1,20 @@
+.kartinka{background-image: url(https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/blt7bcb2291026d0dde/6025e2a8415d5f4e80324945/D2R_2021_Blizzard.comDesktop_2500x514_MB01.png);
+    background-position: center;
+    background-size: cover;}
+    .kartinka a{text-decoration: none;color: white;}
+    .but{width: 310px;
+        background-color: #006fb2;
+        border: solid 1px #00aeff;
+        font-family: "Open Sans",Helvetica,Arial,sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        padding: 14px 50px;
+        margin-top: 24px;
+        text-align: center;
+        text-decoration:none ;
+    color:white;}
+    .but:hover{background-color: #218ccf;
+        border: solid 1px #19b3fa;}  
+        .but a{color: white; text-decoration:none;}  
+        .k-1,   .k-2{margin-bottom: 24px;}
+        .sl{padding: 56px; color:white ;}
